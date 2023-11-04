@@ -1,0 +1,62 @@
+
+
+body {
+    max-width: 960px;
+    margin: 50px;
+}
+
+.apple {
+    display: flex;
+}
+
+#delicious {
+    display: flex;
+    flex-direction: column;
+}
+
+#icons ul {
+    display: flex;
+    flex-direction: row;
+}
+
+#icons {
+    display: flex;
+    flex-direction: row;
+}
+.title {
+    font-family: Yellowtail;
+    font-size: 30px;
+}
+
+strong {
+    font-family: Oswald;
+    text-transform: uppercase;
+    color: grey;
+    font-size: 10px;
+}
+
+p {
+    font-family: Oswald;
+    font-size: 15px;
+    color: grey;
+    text-indent: 30px;
+
+}
+
+.card {
+    font-family: Patrick Hand SC;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 40px;
+}
+
+h2 {
+    
+}
+footer img {
+    max-width: 15px;
+}
